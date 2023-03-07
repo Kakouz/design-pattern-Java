@@ -6,7 +6,7 @@ Cada padrão é como uma planta de construção que você pode customizar para r
 Padrões são como um conjunto de ferramentas para soluções de problemas comuns em design de software.<br>
 Eles definem uma linguagem comum que ajuda sua equipe a se comunicar mais eficientemente.
 
-#Classificação
+# Classificação
 Padrões de projeto diferem por sua complexidade, nível de detalhe e grau de aplicabilidade.<br>
 Além disso, eles podem ser categorizados por seu propósito e divididos em três grupos.
 
