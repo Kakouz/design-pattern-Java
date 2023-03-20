@@ -14,7 +14,7 @@ Além disso, eles podem ser categorizados por seu propósito e divididos em trê
 
 Existem 22 padrões de projetos e todos estão presente nesse repositório!
 
-#### Padrões criacionais:
+#### [Padrões criacionais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/creational)
 Estes padrões fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.<br>
 
 - Factory Method
@@ -23,7 +23,7 @@ Estes padrões fornecem vários mecanismos de criação de objetos, que aumentam
 - Prototype
 - Singleton
 
-#### Padrões estruturais: 
+#### [Padrões estruturais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural)
 Estes padrões explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.<br>
 
 - Adapter
@@ -34,7 +34,7 @@ Estes padrões explicam como montar objetos e classes em estruturas maiores mas 
 - Flyweight
 - Proxy
 
-#### Padrões comportamentais:
+#### [Padrões comportamentais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral)
 Estes padrões são voltados aos algoritmos e a designação de responsabilidades entre objetos.<br>
 
 - Chain of Responsibility
