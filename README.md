@@ -17,11 +17,11 @@ Existem 22 padrões de projetos e todos estão presente nesse repositório!
 #### [Padrões criacionais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/creational)
 Estes padrões fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.<br>
 
-- Factory Method
-- Abstract Factory
-- Builder
-- Prototype
-- Singleton
+- [Factory Method](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/creational/factory_method)
+- [Abstract Factory](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/creational/abstract_factory)
+- [Builder](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/creational/builder)
+- [Prototype](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/creational/prototype)
+- [Singleton](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/creational/singleton)
 
 #### [Padrões estruturais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural)
 Estes padrões explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.<br>
