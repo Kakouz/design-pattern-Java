@@ -37,10 +37,10 @@ Estes padrões explicam como montar objetos e classes em estruturas maiores mas 
 #### [Padrões comportamentais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral)
 Estes padrões são voltados aos algoritmos e a designação de responsabilidades entre objetos.<br>
 
-- Chain of Responsibility
-- Command
-- Iterator
-- Mediator
+- [Chain of Responsibility](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/chain_of_responsability)
+- [Command](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/command)
+- [Iterator](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/iterator)
+- [Mediator](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/mediator
 - Memento
 - Observer
 - State
