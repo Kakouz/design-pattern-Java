@@ -26,13 +26,13 @@ Estes padrões fornecem vários mecanismos de criação de objetos, que aumentam
 #### [Padrões estruturais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural)
 Estes padrões explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.<br>
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
+- [Adapter](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural/adapter)
+- [Bridge](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural/bridge)
+- [Composite](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural/composite)
+- [Decorator](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural/decorator)
+- [Facade](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural/facade)
+- [Flyweight](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural/flyweight)
+- [Proxy](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/structural/proxy)
 
 #### [Padrões comportamentais:](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral)
 Estes padrões são voltados aos algoritmos e a designação de responsabilidades entre objetos.<br>
