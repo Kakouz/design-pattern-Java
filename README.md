@@ -41,12 +41,12 @@ Estes padrões são voltados aos algoritmos e a designação de responsabilidade
 - [Command](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/command)
 - [Iterator](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/iterator)
 - [Mediator](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/mediator)
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
+- [Memento](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/memento)
+- [Observer](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/observer)
+- [State](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/state)
+- [Strategy](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/strategy)
+- [Template Method](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/template_method)
+- [Visitor](https://github.com/Kakouz/design-pattern-Java/tree/main/src/design_patterns/behavioral/visitor)
 
 
 ###### Fonte principal:
